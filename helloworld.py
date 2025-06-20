@@ -7,4 +7,4 @@ print"Narayan swamy G
 print"Namaskaram"
 
 
-#this is me nani from 20 june trying git
+#this is me narayan from 20 june trying git
